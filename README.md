@@ -10,9 +10,9 @@
 
 ## 성능 비교
 
-- 1. 원본 텍스트와 추출한 텍스트의 정확도
-- 2. CER (Character Error Rate) : 문자 단위로 오인식된 문자 개수를 전체 문자수로 나눈 비율
-- 3. WER (Word Error Rate) : 단어 단위로 오인식된 단어의 비율
+- 원본 텍스트와 추출한 텍스트의 정확도
+- CER (Character Error Rate) : 문자 단위로 오인식된 문자 개수를 전체 문자수로 나눈 비율
+- WER (Word Error Rate) : 단어 단위로 오인식된 단어의 비율
 
 ---
 
